@@ -47,4 +47,4 @@ To address this limitation, future work could involve collecting a larger and mo
 Contributions are welcome! If you would like to contribute to the project, feel free to reach out to me. Together, we can enhance the analysis and make a positive impact on engineering education.
 
 ## Contact
-For any questions or inquiries, please contact aayush2574@gmail.com.
+For any questions or inquiries, please contact kritika2311singh@gmail.com or aayush2574@gmail.com.
